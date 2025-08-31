@@ -19,4 +19,7 @@ An engineering curious student passionate about cybersecurity and coding. Loves 
 
 ## 🔐 My HackTheBox Achievements
 
-<img src="https://academy.hackthebox.com/storage/badges/2fa45bd0347b7c5005288106cdef469f/logo.png" width="50" height="50" alt="HTB Badge"> : [**Certified Penetration Testing Specialist**](https://academy.hackthebox.com/achievement/badge/cf488e0d-8388-11f0-9254-bea50ffe6cb4)
+<div style="display: flex; align-items: center;">
+  <img src="https://academy.hackthebox.com/storage/badges/2fa45bd0347b7c5005288106cdef469f/logo.png" width="80" height="80" alt="HTB Badge"> 
+  <span style="margin-left: 20px;">: <a href="https://academy.hackthebox.com/achievement/badge/cf488e0d-8388-11f0-9254-bea50ffe6cb4"><strong>Certified Penetration Testing Specialist</strong></a></span>
+</div>
