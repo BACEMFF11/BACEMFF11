@@ -19,9 +19,5 @@ An engineering curious student passionate about cybersecurity and coding. Loves 
 
 ## 🔐 My HackTheBox Achievements
 
-### Path Completions
-![HackTheBox Path Completion Badge](https://academy.hackthebox.com/achievement/badge/32e25951-f1f6-11ef-864f-bea50ffe6cb4) 
-![HackTheBox Path Completion Badge](https://academy.hackthebox.com/achievement/badge/8637ca88-3fc6-11f0-bcfd-bea50ffe6cb4)
-![HackTheBox Path Completion Badge](https://academy.hackthebox.com/achievement/badge/cf488e0d-8388-11f0-9254-bea50ffe6cb4)
-### Module Completions
-<!-- ![Module Badge](your-module-badge-url) -->
+(https://academy.hackthebox.com/storage/badges/2fa45bd0347b7c5005288106cdef469f/logo.png)](https://academy.hackthebox.com/achievement/badge/cf488e0d-8388-11f0-9254-bea50ffe6cb4)
+
