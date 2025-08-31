@@ -17,9 +17,4 @@ Here are some ideas to get you started:
 ## About Me
 An engineering curious student passionate about cybersecurity and coding. Loves new challenges and is always trying to learn.
 
-## 🔐 My HackTheBox Achievements
-
-<div style="display: flex; align-items: center;">
-  <img src="https://academy.hackthebox.com/storage/badges/2fa45bd0347b7c5005288106cdef469f/logo.png" width="80" height="80" alt="HTB Badge"> 
-  <span style="margin-left: 20px;">: <a href="https://academy.hackthebox.com/achievement/badge/cf488e0d-8388-11f0-9254-bea50ffe6cb4"><strong>Certified Penetration Testing Specialist</strong></a></span>
-</div>
+📄 [**My Complete HackTheBox work :**](./HTB%20Academy%20Student%20Transcript.pdf)
